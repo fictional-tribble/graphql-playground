@@ -300,7 +300,7 @@ In the folder `packages` you'll find the following packages:
 
 <a name="help-and-community" />
 
-## Help & Community [![Slack Status](https://slack.prisma.io/badge.svg)](https://slack.prisma.io)
+## Help & Community [![Slack Status](https://slack.prisma.io/badge.svg)](https://slack.prisma.io) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/graphql-playground.svg)](https://www.staging.guardrails.io)
 
 Join our [Slack community](http://slack.graph.cool/) if you run into issues or have questions. We love talking to you!
 
